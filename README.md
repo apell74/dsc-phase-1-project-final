@@ -1,5 +1,10 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/09/Microsoft-Logo.png" alt="Microsoft Logo" width="400" align='left'>
 
+
+
+
+
+
 # Microsoft Movie Studios- Industry Analysis
 
 ### Author: Adam Pell
@@ -42,6 +47,29 @@ This project uses descriptive analysis of revenue and ROI trends over several fa
 
 # Results
 
+
+
+
+
+
+
+<img src="https://logos-world.net/wp-content/uploads/2020/09/Microsoft-Logo.png" alt="Microsoft Logo" width="400" align='left'>
+
+
+
+
+
+
+<img src="https://logos-world.net/wp-content/uploads/2020/09/Microsoft-Logo.png" alt="Microsoft Logo" width="400" align='left'>
+
+
+
+
+
+
+
+
+
 # Conclusions
 
 This analysis led to three key business recommendations for Microsoft as they open their new studio:
@@ -58,5 +86,14 @@ Further analyses could yield other actionable insights for Microsoft. These incl
 - Genre performance by runtime.
 - Leading actor effect on revenue/ROI.
     
-
+## Repository Structure
+   
+   - zippedData/
+   - .canvas/
+   - .gitignore/
+   - CONTRIBUTING.md/
+   - LICENSE.md/
+   - README.md/
+   - movie_data_erd.jpeg/
+   - student.ipynb/
 
