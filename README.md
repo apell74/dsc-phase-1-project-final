@@ -1,3 +1,5 @@
+<img src="https://logos-world.net/wp-content/uploads/2020/09/Microsoft-Logo.png" alt="Microsoft Logo" width="400" align='left'>
+
 # Microsoft Movie Studios- Industry Analysis
 
 ### Author: Adam Pell
@@ -33,8 +35,6 @@ For this analysis, I will primarily be working with IMDb, The Numbers, and TMDb:
 - TMDb's database includes detailed genre information based on genre IDs
 
 Image: IMDb SQLite Database Schema
-
-![Screen%20Shot%202023-05-05%20at%203.24.25%20PM.png](attachment:Screen%20Shot%202023-05-05%20at%203.24.25%20PM.png)
 
 # Methods
 
