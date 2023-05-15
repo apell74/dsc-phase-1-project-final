@@ -1,5 +1,5 @@
 # Microsoft Movie Studios- Industry Analysis
-
+<img src="https://static.vecteezy.com/system/resources/previews/000/156/686/non_2x/silent-movie-end-screen-vector.jpg">
 ### Author: Adam Pell
 
 # Overview
@@ -68,12 +68,12 @@ Further analyses could yield other actionable insights for Microsoft. These incl
     
 ## Repository Structure
    
-   - zippedData/
-   - .canvas/
-   - .gitignore/
-   - CONTRIBUTING.md/
-   - LICENSE.md/
-   - README.md/
-   - movie_data_erd.jpeg/
-   - student.ipynb/
+   - zippedData
+   - .canvas
+   - .gitignore
+   - CONTRIBUTING.md
+   - LICENSE.md
+   - README.md
+   - movie_data_erd.jpeg
+   - student.ipynb
 
