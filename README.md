@@ -1,5 +1,5 @@
 # Microsoft Movie Studios- Industry Analysis
-<img src="https://logos-world.net/wp-content/uploads/2020/09/Microsoft-Logo.png">
+<img src="https://logos-world.net/wp-content/uploads/2020/09/Microsoft-Logo.png" width="200">
 ### Author: Adam Pell
 
 # Overview
