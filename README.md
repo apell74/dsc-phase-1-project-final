@@ -69,6 +69,7 @@ Further analyses could yield other actionable insights for Microsoft. These incl
     
 ## Repository Structure
    
+   - Images
    - zippedData
    - .canvas
    - .gitignore
@@ -76,5 +77,6 @@ Further analyses could yield other actionable insights for Microsoft. These incl
    - LICENSE.md
    - README.md
    - movie_data_erd.jpeg
+   - Phase 1 Project Presentation.pdf
    - student.ipynb
 
