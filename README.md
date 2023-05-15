@@ -1,10 +1,3 @@
-<img src="https://logos-world.net/wp-content/uploads/2020/09/Microsoft-Logo.png" alt="Microsoft Logo" width="400" align='left'>
-
-
-
-
-
-
 # Microsoft Movie Studios- Industry Analysis
 
 ### Author: Adam Pell
@@ -39,36 +32,23 @@ For this analysis, I will primarily be working with IMDb, The Numbers, and TMDb:
 - The Numbers' database contains information on budgets as well as domestic and worldwide revenue
 - TMDb's database includes detailed genre information based on genre IDs
 
-Image: IMDb SQLite Database Schema
-
 # Methods
 
 This project uses descriptive analysis of revenue and ROI trends over several factors: budget, genre, and runtime. This provides useful information about how to adequately balance a portfolio of movies to attain high revenues without sacrificing returns.
 
 # Results
 
+### Budget
 
+The relationship between budget and revenue is almost the opposite of the relationship between budget and ROI. As budget increases, revenue steadily increases as well. However, ROI declines as budgets increase. Despite a strong positive correlation between budget and revenue, it would seem optimal to avoid only making big-budget films as returns significantly diminish higher up the budget boards (save for a small group of exceptional outliers). 
 
+### Genre
 
+Adventure movies make the most gross revenue of any genre. Among the runners-up are Animation, Action, Family, and Science Fiction. Animation movies stand out, however, because their ROI is better than the other high earners. It is even more attractive because it can have elements of the other high-revenue genres.
 
+### Runtime
 
-
-<img src="https://logos-world.net/wp-content/uploads/2020/09/Microsoft-Logo.png" alt="Microsoft Logo" width="400" align='left'>
-
-
-
-
-
-
-<img src="https://logos-world.net/wp-content/uploads/2020/09/Microsoft-Logo.png" alt="Microsoft Logo" width="400" align='left'>
-
-
-
-
-
-
-
-
+Revenue tends to steadily increase with runtime, with the upside peaking around 140 minutes. Past that, it's unclear if a longer movie can sustainably make more money. Similar to with our budget analysis, though, ROI precipitously declines as runtime increases, then plateaus with a slight downward trend.
 
 # Conclusions
 
