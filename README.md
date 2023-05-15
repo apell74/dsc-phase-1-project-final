@@ -39,7 +39,7 @@ This project uses descriptive analysis of revenue and ROI trends over several fa
 # Results
 
 ### Budget
-<img src="Budget_Chart_Final.png">
+![Budget Chart](Budget_Chart_Final.png)
 
 The relationship between budget and revenue is almost the opposite of the relationship between budget and ROI. As budget increases, revenue steadily increases as well. However, ROI declines as budgets increase. Despite a strong positive correlation between budget and revenue, it would seem optimal to avoid only making big-budget films as returns significantly diminish higher up the budget boards (save for a small group of exceptional outliers). 
 
